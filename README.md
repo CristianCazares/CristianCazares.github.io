@@ -5,5 +5,5 @@ Well... While I have you here i guess you can check the things that are availabl
 
 ### Here you go:
 
-#### Harcoded map (https://cristiancazares.github.io/MapaPYME)
-#### Crisdle - a Wordle clone (https://cristiancazares.github.io/crisdle)
+#### [Harcoded map](https://cristiancazares.github.io/MapaPYME)
+#### [Crisdle - a Wordle clone](https://cristiancazares.github.io/crisdle)
