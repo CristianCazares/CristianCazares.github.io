@@ -9,3 +9,4 @@ Well... While I have you here, I guess you can check the things that are availab
 
 #### [Harcoded map](https://cristiancazares.github.io/MapaPYME)
 #### [Crisdle - a Wordle clone](https://cristiancazares.github.io/crisdle)
+#### [Syntax Highlighter (C++/Flex)](https://github.com/CristianCazares/SyntaxHighlighter)
