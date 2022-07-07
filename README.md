@@ -1,14 +1,14 @@
-# Greetings! - Cristian Cázares
-I am still working on a nice portfolio landing page.
-In the meantime, you can check some of the projects I have worked on.
+# Greetings!
+#### I'm Cristian. I love tech and I'm studying computer science.
+My portfolio landing page is still in progress, in the meantime, you can check some of the projects I have worked on.
 
 ## [In Case Of](https://www.youtube.com/watch?v=NHos0bgb_L0&ab_channel=QuantumProjects)
 #### A virtual reality fire drill 
-An award winning project developed using Unity and Oculus SDK's, in which I contribuited as main developer and project leader.
+An award-winning project developed using Unity and Oculus SDKs, in which I contributed as main developer and project leader.
 
 ## [IJALTI Peers](https://ijalti-prod.web.app/)
 #### Online plattform for a job bank company on Mexico.
-Built to connect companies and applicants. I was on the fronted team using ReactJS, Axios en Material UI.
+Built to connect companies and applicants. I was on the frontend team using ReactJS, Axios en Material UI.
 
 ## [Crisdle](https://cristiancazares.github.io/crisdle)
 #### My wordle clone using plain HTML + CSS and JavaScript
