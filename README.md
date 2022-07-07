@@ -1,5 +1,5 @@
 # Greetings!
-#### I'm Cristian. I love tech and I'm studying computer science.
+#### I'm Cristian. I love tech and I'm studying computer science ([GitHub](https://github.com/CristianCazares)).
 My portfolio landing page is still in progress, in the meantime, you can check some of the projects I have worked on.
 
 ## [In Case Of](https://www.youtube.com/watch?v=NHos0bgb_L0&ab_channel=QuantumProjects)
