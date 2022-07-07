@@ -1,12 +1,17 @@
-# Hey! >:(
-You should not be here... This is not done yet.
+# Greetings! - Cristian Cázares
+I am still working on a nice portfolio landing page.
+In the meantime, you can check some of the projects I have worked on.
 
-...
+### [In Case Of](https://www.youtube.com/watch?v=NHos0bgb_L0&ab_channel=QuantumProjects)
+#### A virtual reality fire drill 
+An award winning project developed using Unity and Oculus SDK's, in which I contribuited as main developer and project leader.
 
-Well... While I have you here, I guess you can check the things that are available so far...
+### [IJALTI Peers](https://ijalti-prod.web.app/)
+#### Online plattform for a job bank company on Mexico.
+Built to connect companies and applicants. I was on the fronted team using ReactJS, Axios en Material UI.
 
-### Here you go:
+### [Crisdle](https://cristiancazares.github.io/crisdle)
+#### My wordle clone using plain HTML + CSS and JavaScript
 
-#### [Harcoded map](https://cristiancazares.github.io/MapaPYME)
-#### [Crisdle - a Wordle clone](https://cristiancazares.github.io/crisdle)
-#### [Syntax Highlighter (C++/Flex)](https://github.com/CristianCazares/SyntaxHighlighter)
+### [Syntax Highlighter](https://github.com/CristianCazares/SyntaxHighlighter)
+#### Built on C++ using Flex.
